@@ -1,1 +1,1 @@
-# terraform-aws-ec2-remote-backend_with-S3-and_confi-Ansible
+Combine Terraform output (EC2 IP) with Ansible automation
